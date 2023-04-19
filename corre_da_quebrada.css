@@ -124,12 +124,16 @@ div p{
     top: 50px;
     padding: 10px;
     left: 0;
-    margin-left: 15px;
-    transition: all 2s;
+    margin-left: 15px; 
 }
-img:hover{
-    transition: 2s;
-   
+#ensaio img:hover{
+   transform: scale(1.2);
+}
+#pro img:hover{
+ transform: scale(1.2);
+}
+#meninasgi img:hover{
+ transform: scale(1.2);
 }
  p{
     position: absolute;
