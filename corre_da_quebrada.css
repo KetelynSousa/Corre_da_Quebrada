@@ -100,16 +100,16 @@ div p{
 }
 #externo{
     position: relative;
-    width: 100px;
+    width: 150px;
     height: 50px;
     left: 75px;
     top: 50px;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 28px;
     line-height: 29px;
     color: #E3048A;
-}
+}   
 #ensaio{
     position: relative;
     display: flex;
@@ -125,6 +125,11 @@ div p{
     padding: 10px;
     left: 0;
     margin-left: 15px;
+    transition: all 2s;
+}
+img:hover{
+    transition: 2s;
+   
 }
  p{
     position: absolute;
