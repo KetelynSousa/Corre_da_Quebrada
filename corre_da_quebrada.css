@@ -100,7 +100,7 @@ div p{
 }
 #externo{
     position: relative;
-    width: 150px;
+    width: 100%;
     height: 50px;
     left: 75px;
     top: 50px;
@@ -114,7 +114,7 @@ div p{
     position: relative;
     display: flex;
     flex-direction: row;
-    margin-left: 50px;
+    margin-left: 50px; 
     margin-top: 0 ;
 }
 #ensaio img{
